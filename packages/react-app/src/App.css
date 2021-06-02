@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+  /* background-image: linear-gradient(to bottom right, red, yellow); */
+  background-image: linear-gradient(to bottom right, #5cd2bc, #3f4241);
+  color: white;
+}
+/* .ant-page-header{
+} */
+ .ant-page-header-heading-title,.ant-page-header-heading-sub-title, .ant-card-head-title, .ant-card-extra a{
+  color:white !important;
+  /* background-color: #e66465; */
+}
+
+.ant-menu{
+  /* background: linear-gradient(#e66465, #9198e5); */
+  padding-bottom: 60px;
+  padding-top: 20px;
+  font-weight: bold;
+  border-bottom-right-radius: 50%;
+border-bottom-left-radius:  50%;
+}
+.ant-menu-item a{
+  color:white !important;
+  
+}
+.ant-menu-item-selected{
+  border-bottom: 2px solid white !important;
+}
+.ant-menu-item:hover{
+  color: white !important;
+  border-bottom: 2px solid white !important;
+}
+.card{
+  background-color: #5E817A;
+  border: none;
+  color:white;
+}
+.card h3, .card p{
+  color: white !important;
+}
+.ant-btn-primary{
+  transition: .3s;
+  background-color: #58B2A1;
+  border:none
+}
+.ant-btn-primary:hover{
+  background-color: #449e8e;
+  border:none
+}
+.ant-typography a{
+  color: white !important;
+}
+.ant-card-head {
+  border-bottom: 1px solid #c3c3c345;
+}
+
+.ant-btn:hover, .ant-btn:focus {
+  color: #58B2A1;
+  background: #fff;
+  border-color: #58B2A1;
+}
+.ant-progress-inner{
+  background-color: #5f5f5f;
+}
+.ant-progress-success-bg, .ant-progress-bg{
+  background-color: #9bfbe9;
+}
+.ant-progress-text{
+  color: white;
+}
+.ant-statistic-content{
+  color:white;
+}
