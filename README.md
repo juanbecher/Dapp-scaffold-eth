@@ -4,9 +4,9 @@
 
 https://web3deep.surge.sh
 
-![Image Dashboard](https://github.com/juanbecher/Web3Site-Scaffoldeth/blob/master/deep1.png)
+![Image Dashboard](https://github.com/juanbecher/Dapp-scaffold-eth/blob/master/deep1.png)
 
-![Image Dashboard](https://github.com/juanbecher/Web3Site-Scaffoldeth/blob/master/deep2.png)
+![Image Dashboard](https://github.com/juanbecher/Dapp-scaffold-eth/blob/master/deep2.png)
 
 ------------------
 
